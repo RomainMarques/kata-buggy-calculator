@@ -1,1 +1,1 @@
-pytest.txt
+pytest
