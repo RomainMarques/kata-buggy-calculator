@@ -12,5 +12,6 @@ def test_add_3_and_3_gives_6():
 
     assert actual == 6
 
+
 test_add_3_and_2_gives_5()
 test_add_3_and_3_gives_6()
